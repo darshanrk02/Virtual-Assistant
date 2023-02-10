@@ -1,0 +1,49 @@
+{
+    "intents":[
+        {
+            "tag": "greeting",
+            "patterns": ["hello", "hi", "hey", "wake up"],
+            "response": ["hello, i'm dabhi", "hey, i'm dabhi", "hello, how are you?", "Always for you"]
+        },
+        
+        {
+            "tag": "bye",
+            "patterns": ["bye", "good bye", "see you later", "exit"],
+            "response": ["Bye..", "bye.. have a good day!", "Nice to meet you", "Happy to meet you again"]
+        },
+        
+        {
+            "tag": "health",
+            "patterns": ["how are you", "how, you?", "are you fine?", "are you good?"],
+            "response": ["Fine", "Good", "Good, How are you", "Perfect"]
+        },
+        
+        {
+            "tag": "time",
+            "patterns": ["time", "what's the time", "update time", "whats the time now"],
+            "response": ["time"]
+        },
+        
+        {
+            "tag": "date",
+            "patterns": ["date", "what's the date", "what's todays date", "update date"],
+            "response": ["date"]
+        },
+        
+        {
+            "tag": "wikipedia",
+            "patterns": ["who is", "about", "what is", "wikipedia"],
+            "response": ["wikipedia"]
+        },
+        
+        {
+            "tag": "google",
+            "patterns": ["google", "search","google search"],
+            "response": ["google "]
+        }
+        
+    ]
+}
+        
+        
+        
