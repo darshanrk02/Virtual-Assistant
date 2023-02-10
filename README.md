@@ -1,2 +1,2 @@
 # Virtual-Assistant
-Virtual Assistant build on Deep Neural Networks
+Virtual Assistant built on Deep Neural Networks
